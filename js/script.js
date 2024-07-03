@@ -1,3 +1,8 @@
+function replaceName() {
+    let nama = prompt("Siapakah Nama Anda", "")
+    document.getElementById("nama").innerHTML = nama;
+}
+ replaceName();
 function validateform() {
     const name = document.forms["message-form"]["full-name"].value;
     const birthdate = document.forms["message-form"]["birth-date"].value;
