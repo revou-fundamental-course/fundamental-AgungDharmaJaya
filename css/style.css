@@ -8,6 +8,9 @@
     height: 50px;
     width: 50px;
     border: 1px solid black;
+    background-image: url(../assets/logo.jpg);
+    background-size: cover;
+    border-radius: 50%;
 }
 
 nav>a {
@@ -20,6 +23,8 @@ nav>a {
     height: 500px;
     width: 100%;
     border: 1px solid black;
+    background-image: url(../assets/banner-pempek1.jpg);
+    background-size: cover;
 }
 
 .profile-content {
@@ -47,6 +52,8 @@ nav>a {
 
     background-size: cover;
     border-radius: 50%;
+    background-image: url(../assets/owner.jpg);
+    background-size: cover;
 }
 
 .portofoliouser {
