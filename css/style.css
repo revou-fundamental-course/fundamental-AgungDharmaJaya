@@ -37,8 +37,8 @@ nav>a {
 }
 
 .profile-icon {
-    height: 50px;
-    width: 50px;
+    height: 150px;
+    width: 150px;
     border: 1px solid black;
 
     background-size: cover;
@@ -46,8 +46,8 @@ nav>a {
 }
 
 .portofolio-user {
-    height: 50px;
-    width: 50px;
+    height: 150px;
+    width: 150px;
     border: 1px solid black;
 
     background-size: cover;
@@ -69,4 +69,16 @@ nav>a {
 .form {
     display: flex;
     justify-content: space-around;
+}
+
+.profile-1 {
+    background-image: url(../assets/profile1.jpg);
+}
+
+.profile-2 {
+    background-image: url(../assets/profile2.jpg);
+}
+
+.profile-3 {
+    background-image: url(../assets/profile3.jpg);
 }
